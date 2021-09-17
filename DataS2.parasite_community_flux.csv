@@ -1,0 +1,28 @@
+,host_species,code,parasite_flux,mh_alpha,mh,np,n,avg_alpha,temp_O,host_taxon,Data_source
+1,Aphredoderus sayanus,MBSF-264,5.23E-05,0.001433102,1.2669,52,75,3.65E-07,20,fish,Paseka 2017
+2,Armadillidium vulgare,TI_549,4.35E-05,0.000259075,0.04765,2,199,2.17E-05,29.8,crustacean,New data
+3,Caecidotea communis,I_02,4.92E-07,4.89E-06,0.0034,2,15,2.46E-07,8.2,crustacean,New data
+4,Catostomus commersonii,R602,2.01E-05,0.012885907,12.6711,110,48,7.73E-07,23.64,fish,Grunberg 2021
+5,Cyprinella spiloptera,R32-SF-3,2.34E-05,0.003171141,4.8639,315,190,1.17E-06,11.98,fish,Grunberg 2021
+6,Enneacanthus obesus,CMB_5,1.63E-05,0.002466298,2.3478,68,124,3.77E-07,20,fish,Paseka 2017
+7,Esox americanus,MBSF-197,2.26E-05,0.018528794,23.2215,213,25,1.58E-07,20,fish,Paseka 2017; Grunberg 2021
+8,Etheostoma fusiforme,MBSF-481,6.68E-06,0.002007829,1.8585,31,17,2.16E-07,20,fish,Paseka 2017
+9,Etheostoma olmstedi,RS35-TD-1,2.41E-05,0.000826181,0.792033333,84,187,1.71E-06,17.12,fish,Grunberg 2021
+10,Fundulus diaphanus,MS-001,0.000251499,0.006043896,4.9674,28,396,7.65E-06,25.1,fish,New data
+11,Gammarus fasciatus,nb_2002,4.70E-07,4.20E-06,0.0012,3,2095,1.57E-07,15.3,crustacean,Grunberg and Sukhdeo 2017; New data
+12,Helisoma trivolvis,nb126,6.73E-08,1.11E-05,0.0171,276,38,2.44E-10,8.9,mollusk,New data
+13,Lepomis auritus,PU21-RB-7,0.000124238,0.046520477,51.7785,1437,110,8.47E-07,24.62,fish,New data; Grunberg 2021
+14,Lepomis gibbosus,MLPS_1,0.000459525,0.02560447,31.2849,75,37,6.03E-06,21.3,fish,New data
+15,Lepomis macrochirus,MLBG.10,0.000717949,0.038201597,49.2942,293,73,7.36E-06,21.3,fish,New data; Grunberg 2021
+16,Libellulidae,nb_2025,4.42E-08,7.99E-05,0.0864,24,22,1.51E-09,4.9,insect,New data
+17,Micropterus dolomieu,nbsm4,0.000331789,0.242643439,413.7549,966,21,7.33E-07,20.8,fish,New data
+18,Micropterus salmoides,lm.m4,0.000187239,0.082917952,148.3734,2884,38,5.13E-06,17.2,fish,New data
+19,Notropis amoenus,R631,1.17E-05,0.00244302,1.9149,166,21,7.06E-08,23.64,fish,Grunberg 2021
+20,Notropis bifrenatus,RS34-BR-47,9.98E-06,0.00155029,1.6194,223,221,4.47E-08,17.12,fish,Grunberg 2021
+21,Physa acuta,DP15,4.22E-07,2.02E-05,0.0099,44,92,9.59E-09,20.2,mollusk,New data
+22,Pleurocera virginica,nb2,3.36E-07,0.000107222,0.3471,1463,100,2.29E-10,8.1,mollusk,New data
+23,Porcellio scaber,TI_492,5.47E-06,5.26E-05,0.0361,1,180,5.47E-06,13.9,crustacean,New data
+24,Rhinichthys atratulus,R614,4.42E-06,0.000841413,0.5703,63,75,5.72E-08,23.64,fish,Grunberg 2021
+25,Rhinichthys cataractae,R22-LN-1,2.87E-06,0.000404076,0.5823,124,23,2.31E-08,8.18,fish,Grunberg 2021
+26,Semotilus atromaculatus,TMR.CC.8,9.77E-05,0.014140215,15.849,203,29,6.54E-07,21.4,fish,Grunberg 2021
+27,Umbra pygmaea,MBSF-289,1.21E-05,0.0024177,2.2953,10,302,8.37E-07,20,fish,Paseka 2017
