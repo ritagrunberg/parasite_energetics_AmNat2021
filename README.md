@@ -20,9 +20,9 @@ In Figure 3B plotted are log_parasite_biomass ~ log_host_biomass +river
 
 Data S4. 'DataS4.platyhelminthes_scaling'
 This is a .csv file containing data used to estimate platyhelminthe metabolic scaling parameters given in Table 1, further details are provided in Appendix 1. 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Metadata_S1-4.txt 
+
+Metadata. 'Metadata_S1-4.txt' 
 Provides column headers for Data S1-S4
 
-parasite_energetics_MS_analyses_Aug2021.Rmd
+Code 'parasite_energetics_MS_analyses_Aug2021.Rmd'
 Rmarkdown file to reproduce graphics and analyses 
