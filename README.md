@@ -1,7 +1,7 @@
 # parasite_energetics_AmNat2021
 Code and data to reproduce analyses and graphics for 'Host energetics explains variation in parasite productivity'
 
-Four datasets are providing as .csv files. 
+Four datasets are provided as .csv files. 
 
 Data S1. 'DataS1.parasite_community_abundance_data'
 This is a .csv file containing data pertaining to Figure 1.
